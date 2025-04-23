@@ -1,0 +1,43 @@
+/* style.css */
+.ccc-footer {
+  background-color: #003366;
+  color: #fff;
+  padding: 2rem 1rem;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.footer-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-logo img {
+  max-height: 50px;
+}
+
+.footer-navigation ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.footer-navigation a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-navigation a:hover {
+  text-decoration: underline;
+}
+
+.footer-contact p {
+  margin: 4px 0;
+}
