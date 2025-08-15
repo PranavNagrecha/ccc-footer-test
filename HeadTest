@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">    
+       
+</head>
+
+
+
+
+<body>
+<header class="ccc-header-block">
+      <div class="ccc-header-top-menu">
+            <nav class="ccc-top-navigation">
+                <a href="#">APPLY NOW</a>
+                <a href="#">CCC HOME</a>
+                <a href="#">LOGIN</a>
+                <div class="ccc-top-navigation-language-selector">
+                     <a href="#" class="ccc-top-navigation-language-button">LANGUAGE</a>
+                     <ul class="ccc-top-navigation-language-selector-list">
+                        <li><a href="#">English</a></li>
+                        <li><a href="#">Spanish</a></li>
+                        <li><a href="#">Polski</a></li>
+                     </ul>
+                </div>
+
+            </nav>
+      </div>
+      <div class="ccc-header-bottom">
+            <div class="ccc-header-logo">
+                <a href="#" class="logo">
+                <img src="https://design-system.b-cdn.net/templates/ccc-header-logo-embed.jpg" alt="Logo">
+                </a>
+                <a role="button" class="ccc-mobile-menu-toggle" href="#" aria-label="Open Menu">
+                    <i class="fas fa-bars"></i>
+                </a>
+            </div>
+            <nav class="ccc-bottom-navigation">
+                <a href="#">Get Started</a>
+                <a href="#" class="active">How to Apply</a>
+                <a href="#">Choose Your Path</a> 
+                <a href="#">Get Help</a>
+            </nav>
+
+      </div>
+
+</header>
+		
+	
+</body>
+
+</html>
